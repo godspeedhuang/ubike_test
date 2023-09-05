@@ -1,0 +1,5 @@
+dataset/
+input/
+__pycache__/
+*.db
+.vscode/
